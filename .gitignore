@@ -23,3 +23,18 @@ episode 2/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
 
 .fake
 *.import
+/episode 2/ConsoleApp1/obj
+/episode 2/ConsoleApp1/obj
+/episode 2/ConsoleApp1/obj
+*.pdb
+episode 2/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+*.godot
+episode 2/ConsoleApp1/obj/project.nuget.cache
+episode 2/ConsoleApp1/obj/project.assets.json
+episode 2/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+episode 2/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
+episode 2/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+episode 2/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GlobalUsings.g.cs
+/episode2/CSharp/ConsoleApp1/obj
+episode2/.DS_Store
+episode2/CSharp/.DS_Store
