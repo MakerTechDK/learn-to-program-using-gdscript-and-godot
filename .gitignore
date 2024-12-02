@@ -20,3 +20,6 @@ episode 2/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
 *.dll
 /episode 2/ConsoleApp1/obj
 /episode 2/ConsoleApp1/bin
+
+.fake
+*.import
