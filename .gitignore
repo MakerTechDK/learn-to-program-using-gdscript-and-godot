@@ -15,3 +15,8 @@ data_*/
 mono_crash.*.json
 episode 2/.DS_Store
 episode 2/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+*.cache
+*.editorconfig
+*.dll
+/episode 2/ConsoleApp1/obj
+/episode 2/ConsoleApp1/bin

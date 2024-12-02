@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/makertech/SynologyDrive/Documents/learn-to-program-using-gdscript-and-godot/episode 2/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/makertech/SynologyDrive/Documents/Tutorials/learn-to-program-using-gdscript-and-godot/episode 2/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/makertech/SynologyDrive/Documents/learn-to-program-using-gdscript-and-godot/episode 2/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/Users/makertech/SynologyDrive/Documents/Tutorials/learn-to-program-using-gdscript-and-godot/episode 2/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/Users/makertech/SynologyDrive/.nuget/packages/",
-      "outputPath": "/Users/makertech/SynologyDrive/Documents/learn-to-program-using-gdscript-and-godot/episode 2/ConsoleApp1/obj/",
+      "outputPath": "/Users/makertech/SynologyDrive/Documents/Tutorials/learn-to-program-using-gdscript-and-godot/episode 2/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/makertech/SynologyDrive/.nuget/NuGet/NuGet.Config"
