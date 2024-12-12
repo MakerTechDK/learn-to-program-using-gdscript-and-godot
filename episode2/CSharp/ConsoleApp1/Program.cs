@@ -18,6 +18,7 @@ class Program
         
         for(int r = 0; r < rows; ++r)
         {
+            Debug.Print("Print 4");
             for(int c = 0; c < cols; ++c)
             {
                 if(coinChoice == 0)

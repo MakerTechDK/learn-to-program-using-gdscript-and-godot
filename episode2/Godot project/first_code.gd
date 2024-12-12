@@ -11,7 +11,13 @@ var coin_choice = 1
 
 
 func _ready() -> void:
+	print_debug("Print 1")
+	print_debug("Print 2")
+	print_debug("Print 3")
+	
 	for r in range(rows):
+		print_debug("Print 4")
+		
 		for c in range(cols):
 			if coin_choice == 0:
 				create_new_coin(gold_coin, c, r)
